@@ -1,0 +1,105 @@
+champion,side,picks,wins,losses,winrate
+Aatrox,Blue,43,20,23,46.51162790697674
+Aatrox,Red,43,20,23,46.51162790697674
+Ambessa,Blue,69,38,31,55.072463768115945
+Ambessa,Red,37,14,23,37.83783783783784
+Amumu,Blue,1,0,1,0.0
+Amumu,Red,2,0,2,0.0
+Bel'Veth,Red,1,0,1,0.0
+Briar,Red,1,0,1,0.0
+Camille,Blue,1,0,1,0.0
+Cho'Gath,Blue,3,1,2,33.33333333333333
+Cho'Gath,Red,1,0,1,0.0
+Diana,Blue,7,2,5,28.57142857142857
+Diana,Red,7,2,5,28.57142857142857
+Dr. Mundo,Blue,86,52,34,60.46511627906976
+Dr. Mundo,Red,69,29,40,42.028985507246375
+Ekko,Blue,1,1,0,100.0
+Elise,Red,1,0,1,0.0
+Graves,Blue,2,1,1,50.0
+Graves,Red,3,3,0,100.0
+Gwen,Blue,7,4,3,57.14285714285714
+Gwen,Red,13,4,9,30.76923076923077
+Hecarim,Blue,2,0,2,0.0
+Hecarim,Red,2,1,1,50.0
+Ivern,Blue,5,2,3,40.0
+Ivern,Red,4,1,3,25.0
+Jarvan IV,Blue,143,83,60,58.04195804195804
+Jarvan IV,Red,177,87,90,49.152542372881356
+Jax,Blue,13,6,7,46.15384615384615
+Jax,Red,6,4,2,66.66666666666666
+Jayce,Blue,71,37,34,52.112676056338024
+Jayce,Red,43,27,16,62.7906976744186
+Karthus,Blue,1,0,1,0.0
+Karthus,Red,2,1,1,50.0
+Kha'Zix,Blue,6,4,2,66.66666666666666
+Kha'Zix,Red,4,2,2,50.0
+Kindred,Blue,5,1,4,20.0
+Kindred,Red,4,2,2,50.0
+Lee Sin,Blue,32,19,13,59.375
+Lee Sin,Red,28,14,14,50.0
+Lillia,Blue,3,1,2,33.33333333333333
+Lillia,Red,3,2,1,66.66666666666666
+Malphite,Blue,31,10,21,32.25806451612903
+Malphite,Red,28,18,10,64.28571428571429
+Maokai,Blue,5,4,1,80.0
+Maokai,Red,1,1,0,100.0
+Morgana,Blue,1,1,0,100.0
+Morgana,Red,2,1,1,50.0
+Naafiri,Blue,19,8,11,42.10526315789473
+Naafiri,Red,25,12,13,48.0
+Nautilus,Red,3,1,2,33.33333333333333
+Neeko,Red,3,3,0,100.0
+Nidalee,Blue,11,7,4,63.63636363636363
+Nidalee,Red,5,2,3,40.0
+Nocturne,Blue,45,26,19,57.77777777777777
+Nocturne,Red,63,26,37,41.269841269841265
+Nunu & Willump,Blue,1,0,1,0.0
+Nunu & Willump,Red,2,1,1,50.0
+Olaf,Blue,1,1,0,100.0
+Olaf,Red,2,2,0,100.0
+Pantheon,Blue,105,48,57,45.714285714285715
+Pantheon,Red,87,45,42,51.724137931034484
+Poppy,Blue,12,6,6,50.0
+Poppy,Red,6,3,3,50.0
+Qiyana,Blue,39,28,11,71.7948717948718
+Qiyana,Red,44,22,22,50.0
+Rammus,Blue,2,1,1,50.0
+Rek'Sai,Blue,5,3,2,60.0
+Rek'Sai,Red,4,3,1,75.0
+Rengar,Red,5,4,1,80.0
+Rumble,Blue,1,1,0,100.0
+Sejuani,Blue,15,5,10,33.33333333333333
+Sejuani,Red,32,16,16,50.0
+Shaco,Blue,1,1,0,100.0
+Sion,Blue,2,1,1,50.0
+Skarner,Blue,10,4,6,40.0
+Skarner,Red,6,3,3,50.0
+Sylas,Blue,6,1,5,16.666666666666664
+Sylas,Red,9,6,3,66.66666666666666
+Taliyah,Blue,10,8,2,80.0
+Taliyah,Red,7,6,1,85.71428571428571
+Talon,Red,1,0,1,0.0
+Trundle,Blue,25,18,7,72.0
+Trundle,Red,29,16,13,55.172413793103445
+Udyr,Blue,1,1,0,100.0
+Udyr,Red,1,0,1,0.0
+Urgot,Blue,1,0,1,0.0
+Vi,Blue,132,75,57,56.81818181818182
+Vi,Red,134,68,66,50.74626865671642
+Viego,Blue,17,6,11,35.294117647058826
+Viego,Red,25,8,17,32.0
+Volibear,Blue,7,2,5,28.57142857142857
+Volibear,Red,9,3,6,33.33333333333333
+Wukong,Blue,148,72,76,48.64864864864865
+Wukong,Red,190,83,107,43.684210526315795
+Xin Zhao,Blue,169,81,88,47.928994082840234
+Xin Zhao,Red,140,64,76,45.714285714285715
+Zaahen,Blue,23,15,8,65.21739130434783
+Zaahen,Red,22,10,12,45.45454545454545
+Zac,Blue,3,0,3,0.0
+Zac,Red,4,1,3,25.0
+Zed,Blue,1,0,1,0.0
+Zed,Red,5,2,3,40.0
+Zyra,Blue,4,1,3,25.0
+Zyra,Red,8,3,5,37.5

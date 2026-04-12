@@ -16,6 +16,8 @@ import matplotlib.pyplot as plt
 
 pd.set_option('display.max_columns', None)  # Show all columns in the DataFrame
 
+uncleaned_data = pd.read_csv('./Data/2026_LoL_esports_match_data_from_OraclesElixir.csv')
+
 data = pd.read_csv('./Data/2026_LoL_esports_match_data_cleaned.csv')
 
 #print(data.head())
@@ -62,8 +64,18 @@ def main():
     for unique in find_unique_data_points('position'):
         data_filtering(unique, 'position')  # Call the data_filtering function for each unique team name
 
-main()
+#main()
+
+def cell_calculation():
+    pd.set_option('display.max_columns', None)  # Show all columns in the DataFrame
+
+    #print(uncleaned_data.shape)  # Print the shape of the uncleaned data
+    print(data.shape)  # Print the shape of the cleaned data
+    print("gogogaga")
+    #print(uncleaned_data.info(verbose=True, show_counts=True))  # Print detailed information about the uncleaned data
+    print(data.info(verbose=True, show_counts=True))  # Print detailed information about the cleaned data
+    #print("gagagogo")
+    #print(uncleaned_data.describe())  # Print statistical summary of the uncleaned
 
 
-
-
+#cell_calculation()
